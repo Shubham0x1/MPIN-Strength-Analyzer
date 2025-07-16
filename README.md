@@ -69,6 +69,7 @@ The project is implemented using Python, organized into modular functions, and c
      - `Reversed year`
      - `All meaningful 4- and 6-digit patterns`
      - `Reversed Year`
+   - A main evaluator function that checks:
   -A main evaluator function that checks:
    -If the MPIN is commonly used
    -If it matches any demographic-based pattern 
