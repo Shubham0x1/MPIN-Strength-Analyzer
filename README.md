@@ -41,6 +41,6 @@ These patterns are easily predictable — especially when attackers use social e
   - Spouse's Date of Birth
 - The program should analyze whether the entered 4-digit MPIN corresponds to any recognizable patterns derived from these personal dates.
 - Output the MPIN strength as **WEAK** or **STRONG**.
-![Screenshot 2025-07-16 195042.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20195042.png)
+![Screenshot 2025-07-16 195233.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20195233.png)
 
 
