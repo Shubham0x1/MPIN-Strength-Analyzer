@@ -1,4 +1,11 @@
 # MPIN-Strength-Analyzer
+## 🚀 Live Demo
+
+🔗 [Run MPIN Analyzer App on Streamlit](https://shubham0x1-mpin-strength-analyzer-app-jcji3d.streamlit.app/)
+
+## 📓 Interactive Notebook
+
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/19wbL7FiONRK9Jy77mhFRy1c6kA8GDUUk?usp=sharing)
 
 # 🔎 Overview
 Mobile Personal Identification Numbers (MPINs) are used as secure login credentials for accessing mobile banking applications. However, users often select MPINs that are easy to guess — making their accounts vulnerable to attacks.
