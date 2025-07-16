@@ -33,3 +33,14 @@ These patterns are easily predictable — especially when attackers use social e
 - This part should not consider any demographic data such as birthdates or anniversaries — the analysis is based solely on pattern repetition and popularity.
 ![Screenshot 2025-07-16 195042.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20195042.png)
 
+### MPIN Strength Evaluation Using Demographic Data (4-digit MPIN)
+
+- Enhance the MPIN checker to accept additional user demographic inputs:
+  - Date of Birth (DOB)
+  - Wedding Anniversary
+  - Spouse's Date of Birth
+- The program should analyze whether the entered 4-digit MPIN corresponds to any recognizable patterns derived from these personal dates.
+- Output the MPIN strength as **WEAK** or **STRONG**.
+![Screenshot 2025-07-16 195042.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20195042.png)
+
+
