@@ -64,8 +64,8 @@ The project is implemented using Python, organized into modular functions, and c
 
 ### Key components of the implementation include:
   - A predefined list of commonly used MPINs for both 4-digit and 6-digit formats.
-  -Utility functions to generate date-based combinations from demographic inputs such as:
-    -Day, Month, Year
+  - Utility functions to generate date-based combinations from demographic inputs such as:
+        -Day, Month, Year  
     -Reversed year
     -All meaningful 4- and 6-digit patterns
   -A main evaluator function that checks:
