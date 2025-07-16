@@ -58,3 +58,5 @@ These patterns are easily predictable — especially when attackers use social e
 ### Part D: Extended Support for 6-Digit MPINs
 - Enhance the system to support validation for both 4-digit and 6-digit MPINs.
 - All checks from previous parts — including common pattern detection and demographic-based combinations — should be adapted accordingly for 6-digit inputs.
+
+# 🔧 Implementation Overview
