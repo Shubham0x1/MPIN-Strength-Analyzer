@@ -24,4 +24,12 @@ For instance, if a user's DOB is 15-Aug-1995, possible weak MPINs might include:
 
 These patterns are easily predictable — especially when attackers use social engineering or data breaches to guess them.
 
+# Challenge Statement and Implementation Parts
+
+### Part A: Detection of Common 4-Digit MPINs
+
+- Develop a function that evaluates whether a 4-digit MPIN is present in a predefined list of commonly used or easily guessable PINs.
+- If the input MPIN matches any entry in the list, classify it as **WEAK**.
+- This part should not consider any demographic data such as birthdates or anniversaries — the analysis is based solely on pattern repetition and popularity.
+![Screenshot 2025-07-16 195042.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20195042.png)
 
