@@ -1,6 +1,6 @@
 # MPIN-Strength-Analyzer
 
-🔎 Overview
+# 🔎 Overview
 Mobile Personal Identification Numbers (MPINs) are used as secure login credentials for accessing mobile banking applications. However, users often select MPINs that are easy to guess — making their accounts vulnerable to attacks.
 
 🔐 Why MPINs Are Often Weak:
