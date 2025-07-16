@@ -14,13 +14,13 @@ MPINs derived from personal demographic information, such as:
 
 🧑‍🤝‍🧑 Spouse’s Date of Birth
 
-For instance, if a user's DOB is 02-Jan-1998, possible weak MPINs might include:
+For instance, if a user's DOB is 15-Aug-1995, possible weak MPINs might include:
 
-0201 (Day + Month)
+1508 (Day + Month)
 
-9802 (Year + Month)
+9508 (Year + Month)
 
-0198 (Day + Year)
+1595 (Day + Year)
 
 These patterns are easily predictable — especially when attackers use social engineering or data breaches to guess them.
 
