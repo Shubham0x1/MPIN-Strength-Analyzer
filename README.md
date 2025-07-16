@@ -82,7 +82,7 @@ The project is implemented using Python, organized into modular functions, and c
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/Shubham0x1/MPIN-Strength-Analyzer>
 cd <repo-directory>
 ```
 ### 2. Install Python Dependencies
@@ -90,4 +90,8 @@ cd <repo-directory>
 ```bash
 pip install -r requirements.txt
 ```
+### 3.  Run the Streamlit App
 
+```bash
+streamlit run app.py
+```
