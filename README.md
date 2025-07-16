@@ -95,4 +95,26 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-### Sample Executions
+# Sample Executions
+
+### Part A – Sample Test Case
+![Screenshot 2025-07-16 230457.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20230457.png)
+
+###  Part B – Sample Test Case
+![Screenshot 2025-07-16 230737.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20230737.png)
+
+### Part C – Sample Test Cases with Strength & Reasons
+
+## Test Case 1: WEAK — DOB Match
+![Screenshot 2025-07-16 231023.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20231023.png)
+
+## Test Case 2: WEAK — (DOB + Anniversary Match)
+![Screenshot 2025-07-16 231144.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20231144.png)
+
+## Test Case 3: STRONG MPIN
+![Screenshot 2025-07-16 231321.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20231321.png)
+
+
+
+
+
