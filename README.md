@@ -60,3 +60,17 @@ These patterns are easily predictable — especially when attackers use social e
 - All checks from previous parts — including common pattern detection and demographic-based combinations — should be adapted accordingly for 6-digit inputs.
 
 # 🔧 Implementation Overview
+The project is implemented using Python, organized into modular functions, and can be run via a Jupyter Notebook or a Streamlit web app. The core logic resides in the file mpin_strength_analyzer_shubham_gusain.py.
+
+### Key components of the implementation include:
+  - A predefined list of commonly used MPINs for both 4-digit and 6-digit formats.
+  -Utility functions to generate date-based combinations from demographic inputs such as:
+    -Day, Month, Year
+    -Reversed year
+    -All meaningful 4- and 6-digit patterns
+  -A main evaluator function that checks:
+   -If the MPIN is commonly used
+   -If it matches any demographic-based pattern 
+   -Returns both strength (WEAK/STRONG) and reasons
+  -A comprehensive test suite with 40+ test cases to verify all conditions across Part A–D.
+  -A user-friendly Streamlit interface for input and live testing.
