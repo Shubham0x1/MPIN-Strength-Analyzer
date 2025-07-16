@@ -124,3 +124,10 @@ streamlit run app.py
 
 ### Test Case 3: STRONG — Secure 6-digit MPIN
 ![Screenshot 2025-07-16 232411.png](https://github.com/Shubham0x1/MPIN-Strength-Analyzer/blob/main/screenshots/Screenshot%202025-07-16%20232411.png)
+
+
+## ✍️ Author
+
+**Shubham Gusain**  
+🔗 [GitHub](https://github.com/Shubham0x1)  
+📧 shubhamgusain886@gmail.com
