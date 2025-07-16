@@ -70,8 +70,8 @@ The project is implemented using Python, organized into modular functions, and c
      - `All meaningful 4- and 6-digit patterns`
      - `Reversed Year`
    - A main evaluator function that checks:
-      - If the MPIN is commonly used
-      - If it matches any demographic-based pattern
-      - Returns both strength (WEAK/STRONG) and reasons
-  -A comprehensive test suite with 40+ test cases to verify all conditions across Part A–D.
-  -A user-friendly Streamlit interface for input and live testing.
+      - `If the MPIN is commonly used`
+      - `If it matches any demographic-based pattern`
+      - `Returns both strength (WEAK/STRONG) and reasons`
+   - A comprehensive test suite with 50 test cases to verify all conditions across Part A–D.
+   - A user-friendly Streamlit interface for input and live testing.
