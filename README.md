@@ -3,7 +3,7 @@
 # 🔎 Overview
 Mobile Personal Identification Numbers (MPINs) are used as secure login credentials for accessing mobile banking applications. However, users often select MPINs that are easy to guess — making their accounts vulnerable to attacks.
 
-🔐 Why MPINs Are Often Weak:
+## 🔐 Why MPINs Are Often Weak:
 Use of commonly repeated or popular patterns (e.g., 1122, 0000, 2580)
 
 MPINs derived from personal demographic information, such as:
