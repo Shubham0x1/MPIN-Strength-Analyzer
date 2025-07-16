@@ -75,3 +75,19 @@ The project is implemented using Python, organized into modular functions, and c
       - `Returns both strength (WEAK/STRONG) and reasons`
    - A comprehensive test suite with 50 test cases to verify all conditions across Part A–D.
    - A user-friendly Streamlit interface for input and live testing.
+
+
+## 🧰 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-github-repo-url>
+cd <repo-directory>
+```
+### 2. Install Python Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
